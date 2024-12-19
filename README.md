@@ -1,4 +1,3 @@
-```markdown
 # Chest CT Scan Dataset for Lung Cancer Detection
 
 This repository contains a dataset of chest CT scans for use in a deep learning project focused on lung cancer detection using Convolutional Neural Networks (CNNs) with PyTorch.
@@ -41,7 +40,6 @@ This README provides a basic framework. You can customize it further to include:
 * Visualization of model performance (e.g., confusion matrix, ROC curves).
 
 This dataset and the associated code can serve as a valuable starting point for your lung cancer detection project. Remember to adapt and refine the approach based on your specific requirements and the characteristics of your dataset.
-```
 
 **Key improvements in this README:**
 
